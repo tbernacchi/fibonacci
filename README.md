@@ -1,5 +1,5 @@
 # fibonacci
-Fibonacci made in Go that apparentely was made using AI in Go.
+Fibonacci made in Go that apparentely was made using AI.
 
 Using any language and libraries you choose, write a HTTP service with a single endpoint
 that calculates n-th fibonacci sequence (1, 1, 2, 3, 5, 8, 13 ...) number. E.g. if the server is
