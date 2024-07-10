@@ -13,7 +13,11 @@ running on http://localhost:8000 it should behave like this:
 > curl <http://localhost:8000/fib?n=72>
 498454011879264
 ```
+<<<<<<< HEAD
 # Locally
+=======
+# Go
+>>>>>>> 93b08b8 (All files)
 
 ```
 mkdir -p ~/fibonacci
@@ -30,6 +34,9 @@ fibonacci|⇒ tree .
 fibonacci|⇒ go mod init fibonacci
 fibonacci|⇒ go run server/main.go
 ```
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 93b08b8 (All files)
